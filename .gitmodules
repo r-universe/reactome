@@ -8,13 +8,3 @@
 	url = https://github.com/reactome/reactomecontentservice4r
 	shallow = true
 	registered = true
-[submodule "ReactomeGraph4R"]
-	path = ReactomeGraph4R
-	url = https://github.com/reactome/reactomegraph4r
-	shallow = true
-	registered = true
-[submodule "ReactomeGSA"]
-	path = ReactomeGSA
-	url = https://github.com/reactome/reactomegsa
-	shallow = true
-	registered = true

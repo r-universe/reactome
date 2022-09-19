@@ -1,11 +1,5 @@
 [
   {
     "package": "ReactomeContentService4R"
-  },
-  {
-    "package": "ReactomeGraph4R"
-  },
-  {
-    "package": "ReactomeGSA"
   }
 ]
