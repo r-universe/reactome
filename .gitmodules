@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ReactomeContentService4R"]
-	path = ReactomeContentService4R
-	url = https://github.com/reactome/reactomecontentservice4r
-	shallow = true
-	registered = true
 [submodule "ReactomeGraph4R"]
 	path = ReactomeGraph4R
 	url = https://github.com/reactome/reactomegraph4r
+	shallow = true
+	registered = true
+[submodule "ReactomeContentService4R"]
+	path = ReactomeContentService4R
+	url = https://github.com/reactome/reactomecontentservice4r
 	shallow = true
 	registered = true
 [submodule "ReactomeGSA"]
