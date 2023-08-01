@@ -5,9 +5,9 @@
 [submodule "ReactomeContentService4R"]
 	path = ReactomeContentService4R
 	url = https://github.com/reactome/reactomecontentservice4r
-[submodule "ReactomeGraph4R"]
-	path = ReactomeGraph4R
-	url = https://github.com/reactome/reactomegraph4r
 [submodule "ReactomeGSA"]
 	path = ReactomeGSA
 	url = https://github.com/reactome/reactomegsa
+[submodule "ReactomeGraph4R"]
+	path = ReactomeGraph4R
+	url = https://github.com/reactome/reactomegraph4r
